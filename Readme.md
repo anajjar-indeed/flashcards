@@ -1,4 +1,4 @@
-## FlashCards game
+## The FlashCards React App
 
 # Testing:
 `npm test`
