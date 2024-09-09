@@ -1,0 +1,20 @@
+#create-deck {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 600px;
+}
+
+input,
+textarea
+{
+    width: 100%;
+}
+
+input {
+    height: 40px;
+}
+
+textarea {
+    height: 150px;
+}

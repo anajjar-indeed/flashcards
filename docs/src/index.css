@@ -1,0 +1,46 @@
+.btn {
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.create  {
+    width: 150px;
+    background-color: grey;
+    color: white;
+    margin: 0px;
+}
+
+.delete {
+    width: 50px;
+    background-color: #C42332;
+    color: white;
+}
+
+.study {
+    background-color: #047BFE;
+    color: white;
+}
+
+.view,
+.edit,
+.flip,
+.cancel
+{
+    background-color: grey;
+    color: white;
+}
+
+.submit,
+.next {
+    background-color: #047BFE;
+    color: white;
+}
+
+.add-card {
+    width: 150px;
+    background-color: #047BFE;
+    color: white;
+}

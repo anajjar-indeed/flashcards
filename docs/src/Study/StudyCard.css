@@ -1,0 +1,6 @@
+.study-card {
+    border: 1px solid grey;
+    background-color: rgba(245, 245, 245, 0.48);
+    border-radius: 5px;
+    padding: 10px;
+}

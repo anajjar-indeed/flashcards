@@ -1,0 +1,17 @@
+.deck-item {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgba(245, 245, 245, 0.48);
+}
+
+.deck-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.deck-item:hover {
+    background-color: #dcdcdc;
+}
